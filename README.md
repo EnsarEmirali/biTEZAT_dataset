@@ -16,11 +16,12 @@ Klasörler ve dosyaların detayları aşağıda belirtilmiştir:
 
 ## Alıntı:
 Eğer akademik çalışmanızda buradaki kaynaklardan faydalandıysanız lütfen aşağıdaki çalışmaya atıf yapınız:
-> Yazar = {**Ensar Emirali, M. Elif Karslıgil**},
-> Başlık = {**bi-TEZAT: biLSTM YÖNTEMİYLE TÜRKÇE ŞİKAYET METİNLERİNDE ZAMAN İFADELERİNİN TESPİT EDİLMESİ**},
+> *Yazar* = {**Ensar Emirali, M. Elif Karslıgil**},
 > 
-> Ay = Temmuz,
+> *Başlık* = {**bi-TEZAT: biLSTM YÖNTEMİYLE TÜRKÇE ŞİKAYET METİNLERİNDE ZAMAN İFADELERİNİN TESPİT EDİLMESİ**},
 > 
-> Yıl = 202022,
+> *Ay* = **Temmuz**,
 > 
-> URL = {*eklenecek*}
+> *Yıl* = **2022**,
+> 
+> *URL* = {**eklenecek**}
