@@ -1,2 +1,2 @@
 ## Unlabeled Dataset
-XML formatında 127 Türkçe şikayet metni içermektedir.
+XML formatında ve etiketlenmemiş 127 Türkçe şikayet metni içermektedir.
