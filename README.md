@@ -11,3 +11,5 @@ Klasörler ve dosyaların detayları aşağıda belirtilmiştir:
 - - ***parameters.py:*** Ön işlemler sırasında ihtiyaç olan parametrelerin saklandığı dosya
 - - ***preprocess.py:*** Ön işlemler sırasında ihtiyaç olan fonksiyonların saklandığı dosya
 - - ***preparation.py:*** XML formatındaki metinler üzerinde ön işlemleri yapıp bir dataframe haline getiren dosya
+
+Ön işlemlerin başarılı şekilde yapılabilmesi için [Zemberek] indirilmesi gerekmektedir.
