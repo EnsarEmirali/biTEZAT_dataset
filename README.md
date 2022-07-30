@@ -17,5 +17,5 @@ Klasörler ve dosyaların detayları aşağıda belirtilmiştir:
 ## Çalışmalar:
 Buradaki veriseti aşağıdaki çalışma kapsamında hazırlanmıştır:
 ```
-E. Emirali ve M. E. Karslıgil, “Türkçe Metinlerde Zaman İfadelerinin Tespitinde Kelime Vektörlerinin Kullanulması,” 30. IEEE Sinya İşleme ve İletişim Uygulamaları Kurultayı, 2022.
+E. Emirali ve M. E. Karslıgil, “Türkçe Metinlerde Zaman İfadelerinin Tespitinde Kelime Vektörlerinin Kullanılması,” 30. IEEE Sinya İşleme ve İletişim Uygulamaları Kurultayı, 2022.
 ```
