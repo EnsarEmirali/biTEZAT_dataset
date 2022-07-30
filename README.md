@@ -1,6 +1,6 @@
 # bi-TEZAT: Dataset
 
-**"bi-TEZAT: biLSTM YÖNTEMİYLE TÜRKÇE ŞİKAYET METİNLERİNDE ZAMAN İFADELERİNİN TESPİT EDİLMESİ"** yüksek lisans tez çalışması kapsamında TIMEX3 standartlarında zaman ifadeleri etiketlenmiş Türkçe şikayet metinlerini içermektedir.
+**"bi-TEZAT: biLSTM YÖNTEMİYLE TÜRKÇE ŞİKAYET METİNLERİNDE ZAMAN İFADELERİNİN TESPİT EDİLMESİ"** yüksek lisans tez çalışması kapsamında zaman ifadeleri etiketlenmiş Türkçe şikayet metinlerini içermektedir.
 
 Klasörler ve dosyaların detayları aşağıda belirtilmiştir:
 
@@ -14,11 +14,8 @@ Klasörler ve dosyaların detayları aşağıda belirtilmiştir:
 
 > Önemli: Ön işlemlerin başarılı şekilde yapılabilmesi için [Zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp)nin indirilmesi gerekmektedir.
 
-## Alıntı:
-Eğer akademik çalışmanızda buradaki kaynaklardan herhangi birisinden faydalandıysanız lütfen aşağıdaki çalışmaya atıf yapınız:
+## Çalışmalar:
+Buradaki veriseti aşağıdaki çalışma kapsamında hazırlanmıştır:
 ```
-Yazar = {Ensar Emirali, M. Elif Karslıgil},
-Başlık = {bi-TEZAT: biLSTM YÖNTEMİYLE TÜRKÇE ŞİKAYET METİNLERİNDE ZAMAN İFADELERİNİN TESPİT EDİLMESİ},
-Tarih = {Temmuz, 2022},
-URL = {___}
+E. Emirali ve M. E. Karslıgil, “Türkçe Metinlerde Zaman İfadelerinin Tespitinde Kelime Vektörlerinin Kullanulması,” 30. IEEE Sinya İşleme ve İletişim Uygulamaları Kurultayı, 2022.
 ```
