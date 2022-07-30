@@ -11,8 +11,6 @@ Klasörler ve dosyaların detayları aşağıda belirtilmiştir:
 - - ***parameters.py:*** Ön işlemler sırasında ihtiyaç olan parametrelerin saklandığı dosya
 - - ***preprocess.py:*** Ön işlemler sırasında ihtiyaç olan fonksiyonların saklandığı dosya
 - - ***preparation.py:*** XML formatındaki metinler üzerinde ön işlemleri yapıp bir dataframe haline getiren dosya
-- ***guidance:*** Türkçe metinlerinde zaman ifadelerinin TIMEX3 standartlarında etiketleme çalışmalarında yardımcı olması amacıyla hazırlanan rehber
-- - ***TIMEX3 Standartlarının Uyarlanması.pdf:*** TIMEX3 standartlarının Türkçe için uyarlaması
 
 > Önemli: Ön işlemlerin başarılı şekilde yapılabilmesi için [Zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp)nin indirilmesi gerekmektedir.
 
