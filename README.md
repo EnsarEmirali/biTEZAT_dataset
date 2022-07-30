@@ -13,3 +13,11 @@ Klasörler ve dosyaların detayları aşağıda belirtilmiştir:
 - - ***preparation.py:*** XML formatındaki metinler üzerinde ön işlemleri yapıp bir dataframe haline getiren dosya
 
 Ön işlemlerin başarılı şekilde yapılabilmesi için [Zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp)nin indirilmesi gerekmektedir.
+
+## Alıntı:
+Eğer akademik çalışmanızda buradaki kaynaklardan faydalandıysanız lütfen aşağıdaki çalışmaya atıf yapınız:
+> Yazar = {Ensar Emirali, M. Elif Karslıgil},
+> Başlık = {bi-TEZAT: biLSTM YÖNTEMİYLE TÜRKÇE ŞİKAYET METİNLERİNDE ZAMAN İFADELERİNİN TESPİT EDİLMESİ},
+> Ay = Temmuz,
+> Yıl = 202022,
+> URL = {*eklenecek*}
