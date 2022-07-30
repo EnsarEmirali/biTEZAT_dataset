@@ -13,7 +13,8 @@ Klasörler ve dosyaların detayları aşağıda belirtilmiştir:
 - - ***preparation.py:*** XML formatındaki metinler üzerinde ön işlemleri yapıp bir dataframe haline getiren dosya
 - ***guidance:*** Türkçe metinlerinde zaman ifadelerinin TIMEX3 standartlarında etiketleme çalışmalarında yardımcı olması amacıyla hazırlanan rehber
 - - ***TIMEX3 Standartlarının Uyarlanması.pdf:*** TIMEX3 standartlarının Türkçe için uyarlaması
-Ön işlemlerin başarılı şekilde yapılabilmesi için [Zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp)nin indirilmesi gerekmektedir.
+
+> Ön işlemlerin başarılı şekilde yapılabilmesi için [Zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp)nin indirilmesi gerekmektedir.
 
 ## Alıntı:
 Eğer akademik çalışmanızda buradaki kaynaklardan faydalandıysanız lütfen aşağıdaki çalışmaya atıf yapınız:
