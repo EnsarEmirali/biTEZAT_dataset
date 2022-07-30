@@ -1,6 +1,6 @@
 # bi-TEZAT: Dataset
 
-**"bi-TEZAT: biLSTM YÖNTEMİYLE TÜRKÇE ŞİKAYET METİNLERİNDE ZAMAN İFADELERİNİN TESPİT EDİLMESİ"** yüksek lisans tez çalışması kapsamında zaman ifadeleri etiketlenmiş Türkçe şikayet metinlerini içermektedir.
+Zaman ifadeleri etiketlenmiş/etiketlenmemiş Türkçe şikayet metinlerini içermektedir.
 
 Klasörler ve dosyaların detayları aşağıda belirtilmiştir:
 
