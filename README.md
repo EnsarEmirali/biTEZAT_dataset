@@ -17,7 +17,7 @@ Klasörler ve dosyaların detayları aşağıda belirtilmiştir:
 > Önemli: Ön işlemlerin başarılı şekilde yapılabilmesi için [Zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp)nin indirilmesi gerekmektedir.
 
 ## Alıntı:
-Eğer akademik çalışmanızda buradaki kaynaklardan faydalandıysanız lütfen aşağıdaki çalışmaya atıf yapınız:
+Eğer akademik çalışmanızda buradaki kaynaklardan herhangi birisinden faydalandıysanız lütfen aşağıdaki çalışmaya atıf yapınız:
 ```
 Yazar = {Ensar Emirali, M. Elif Karslıgil},
 Başlık = {bi-TEZAT: biLSTM YÖNTEMİYLE TÜRKÇE ŞİKAYET METİNLERİNDE ZAMAN İFADELERİNİN TESPİT EDİLMESİ},
