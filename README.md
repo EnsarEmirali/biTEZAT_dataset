@@ -9,4 +9,5 @@ Klasörler ve dosyaların detayları aşağıda belirtilmiştir:
 - ***unlabeled_dataset:*** İnternet ortamında indirilen ve etiketlenmemiş 127 şikayet metni
 - ***model:*** Şikayet metinlerini düzenlemek için Python kodları:
 - - ***parameters:*** Ön işlemler sırasında ihtiyaç olan parametrelerin saklandığı dosya
-
+- - ***preprocess:*** Ön işlemler sırasında ihtiyaç olan fonksiyonların saklandığı dosya
+- - ***preparation:*** XML formatındaki metinler üzerinde ön işlemleri yapıp bir dataframe haline getiren dosya
