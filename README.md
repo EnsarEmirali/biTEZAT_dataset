@@ -4,7 +4,7 @@ Zaman ifadeleri etiketlenmiş/etiketlenmemiş Türkçe şikayet metinlerini içe
 
 Etiketleme şu formatta yapılmıştır:
 ``` 
-**<ZAMAN_İFADESİ_TİPİ>** _zaman ifadesi_ **</ZAMAN_İFADESİ_TİPİ>**
+<ZAMAN_İFADESİ_TİPİ> _zaman ifadesi_ </ZAMAN_İFADESİ_TİPİ>
 ```
 
 Klasörler ve dosyaların detayları aşağıda belirtilmiştir:
@@ -17,7 +17,7 @@ Klasörler ve dosyaların detayları aşağıda belirtilmiştir:
 - - ***preparation.py:*** XML formatındaki metinler üzerinde ön işlemleri yapıp bir dataframe haline getiren dosya
 
 
-> Önemli: Ön işlemlerin başarılı şekilde yapılabilmesi için [Zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp)nin indirilmesi gerekmektedir.
+> ✨MÖnemli✨M: Ön işlemlerin başarılı şekilde yapılabilmesi için [Zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp)nin indirilmesi gerekmektedir.
 
 
 ## Çalışmalar:
