@@ -2,6 +2,7 @@
 
 Zaman ifadeleri etiketlenmiş/etiketlenmemiş Türkçe şikayet metinlerini içermektedir. 
 ✨✨✨
+
 Etiketleme şu formatta yapılmıştır:
 ``` 
 <ZAMAN_İFADESİ_TİPİ> _zaman ifadesi_ </ZAMAN_İFADESİ_TİPİ>
