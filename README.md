@@ -3,6 +3,7 @@
 Zaman ifadeleri etiketlenmiş/etiketlenmemiş Türkçe şikayet metinlerini içermektedir. Etiketleme şu formatta yapılmıştır:
 > <***ZAMAN_İFADESİ_TİPİ***> zaman ifadesi </***ZAMAN_İFADESİ_TİPİ***>
 
+
 Klasörler ve dosyaların detayları aşağıda belirtilmiştir:
 
 - ***scrapping.py:*** İnternet ortamından şikayetleri indirmek için yazılan Python kodu
