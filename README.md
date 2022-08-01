@@ -1,7 +1,8 @@
 # bi-TEZAT: Dataset
 
 Zaman ifadeleri etiketlenmiş/etiketlenmemiş Türkçe şikayet metinlerini içermektedir. 
-✨✨✨
+
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 Etiketleme şu formatta yapılmıştır:
 ``` 
