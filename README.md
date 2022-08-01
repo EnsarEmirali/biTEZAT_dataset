@@ -17,6 +17,7 @@ Klasörler ve dosyaların detayları aşağıda belirtilmiştir:
 
 > Önemli: Ön işlemlerin başarılı şekilde yapılabilmesi için [Zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp)nin indirilmesi gerekmektedir.
 
+
 ## Çalışmalar:
 Buradaki veriseti aşağıdaki çalışma kapsamında hazırlanmıştır:
 ```
