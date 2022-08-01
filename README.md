@@ -1,6 +1,7 @@
 # bi-TEZAT: Dataset
 
-Zaman ifadeleri etiketlenmiş/etiketlenmemiş Türkçe şikayet metinlerini içermektedir.
+Zaman ifadeleri etiketlenmiş/etiketlenmemiş Türkçe şikayet metinlerini içermektedir. Etiketleme şu formatta yapılmıştır:
+> <***ZAMAN_TİPİ***> zaman ifadesi </***ZAMAN_TİPİ***>
 
 Klasörler ve dosyaların detayları aşağıda belirtilmiştir:
 
