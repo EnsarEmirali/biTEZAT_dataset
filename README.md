@@ -14,6 +14,7 @@ Klasörler ve dosyaların detayları aşağıda belirtilmiştir:
 - - ***preprocess.py:*** Ön işlemler sırasında ihtiyaç olan fonksiyonların saklandığı dosya
 - - ***preparation.py:*** XML formatındaki metinler üzerinde ön işlemleri yapıp bir dataframe haline getiren dosya
 
+
 > Önemli: Ön işlemlerin başarılı şekilde yapılabilmesi için [Zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp)nin indirilmesi gerekmektedir.
 
 ## Çalışmalar:
